@@ -4,7 +4,7 @@
 
 **Powłoka terminalowa w jednym pliku Pythona — 196+ wbudowanych komend, menedżer plików TUI, system wtyczek, serwer REST/WebSocket i autodiagnostyka. Zero zewnętrznych zależności.**
 
-[🇬🇧 English](README.md) · [🇵🇱 Polski](README.pl.md)
+[🇬🇧 English](../README.md) · [🇵🇱 Polski](README.pl.md)
 
 ![Wersja](https://img.shields.io/badge/wersja-39.2-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-informational)
@@ -149,6 +149,6 @@ Pełny tekst licencji znajdziesz wewnątrz powłoki: komenda `about` / `license`
 
 <div align="center">
 
-[🇬🇧 English](README.md) · [🇵🇱 Polski](README.pl.md)
+[🇬🇧 English](../README.md) · [🇵🇱 Polski](README.pl.md)
 
 </div>
