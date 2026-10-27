@@ -1,0 +1,7 @@
+==============================================================================
+Nuitka GUI 1.0.0 - build log
+Started   : 2026-10-27 14:27:58
+Profile   : default
+==============================================================================
+Interpreter check failed:
+Nuitka is not installed for the selected interpreter (C:\Users\max\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\python.exe). Install it with: C:\Users\max\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\python.exe -m pip install nuitka
